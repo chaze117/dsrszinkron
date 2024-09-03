@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dsrszinkron/static/css/main.f855e6bc.css",
-    "main.js": "/dsrszinkron/static/js/main.ad3d4fe4.js",
+    "main.js": "/dsrszinkron/static/js/main.0ea7b1fd.js",
     "static/js/453.b8245f6a.chunk.js": "/dsrszinkron/static/js/453.b8245f6a.chunk.js",
     "static/media/banner.png": "/dsrszinkron/static/media/banner.eba36b751ac7690313f4.png",
     "static/media/nia.jpg": "/dsrszinkron/static/media/nia.e1ce751ef1b590f719f9.jpg",
     "index.html": "/dsrszinkron/index.html",
     "main.f855e6bc.css.map": "/dsrszinkron/static/css/main.f855e6bc.css.map",
-    "main.ad3d4fe4.js.map": "/dsrszinkron/static/js/main.ad3d4fe4.js.map",
+    "main.0ea7b1fd.js.map": "/dsrszinkron/static/js/main.0ea7b1fd.js.map",
     "453.b8245f6a.chunk.js.map": "/dsrszinkron/static/js/453.b8245f6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ad3d4fe4.js"
+    "static/js/main.0ea7b1fd.js"
   ]
 }
