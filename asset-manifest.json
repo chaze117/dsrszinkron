@@ -1,17 +1,35 @@
 {
   "files": {
     "main.css": "/dsrszinkron/static/css/main.f855e6bc.css",
-    "main.js": "/dsrszinkron/static/js/main.b7199a25.js",
+    "main.js": "/dsrszinkron/static/js/main.57ea3e8a.js",
     "static/js/453.b8245f6a.chunk.js": "/dsrszinkron/static/js/453.b8245f6a.chunk.js",
     "static/media/banner.png": "/dsrszinkron/static/media/banner.eba36b751ac7690313f4.png",
+    "static/media/hun_Gwyn0.mp3": "/dsrszinkron/static/media/hun_Gwyn0.1abf195094e3ed5cdcb9.mp3",
+    "static/media/Gwyn0.mp3": "/dsrszinkron/static/media/Gwyn0.b62c747c451d5c26576f.mp3",
+    "static/media/Anastacia2.mp3": "/dsrszinkron/static/media/Anastacia2.e967900ff8470f0e4d87.mp3",
+    "static/media/Anastacia3.mp3": "/dsrszinkron/static/media/Anastacia3.35671b920e3dcc62b8ab.mp3",
+    "static/media/hun_Gwyn1.mp3": "/dsrszinkron/static/media/hun_Gwyn1.75dc155807743bcf50bf.mp3",
+    "static/media/Alvina2.mp3": "/dsrszinkron/static/media/Alvina2.78ac137bf5901901b745.mp3",
+    "static/media/Alvina0.mp3": "/dsrszinkron/static/media/Alvina0.f60ee52eb0d7d347136b.mp3",
+    "static/media/hun_Gwyn2.mp3": "/dsrszinkron/static/media/hun_Gwyn2.fd098811abdf8b2bb1c1.mp3",
+    "static/media/Andre1.mp3": "/dsrszinkron/static/media/Andre1.3cd19aeca3547cf28c58.mp3",
+    "static/media/Andre0.mp3": "/dsrszinkron/static/media/Andre0.cea1072f990132095505.mp3",
+    "static/media/Logan2.mp3": "/dsrszinkron/static/media/Logan2.241b15318a189f62d7d1.mp3",
+    "static/media/Logan0.mp3": "/dsrszinkron/static/media/Logan0.fe324cae38128186af0a.mp3",
+    "static/media/Alvina1.mp3": "/dsrszinkron/static/media/Alvina1.dfd5f10a760e306489b8.mp3",
+    "static/media/Logan1.mp3": "/dsrszinkron/static/media/Logan1.bada96cbb8586edbf368.mp3",
+    "static/media/Gwyn1.mp3": "/dsrszinkron/static/media/Gwyn1.4cfc70287361dcf49140.mp3",
+    "static/media/Andre2.mp3": "/dsrszinkron/static/media/Andre2.61f883d6d11e90fcf958.mp3",
+    "static/media/Anastacia1.mp3": "/dsrszinkron/static/media/Anastacia1.38e8f688ef7064d6a843.mp3",
+    "static/media/Gwyn2.mp3": "/dsrszinkron/static/media/Gwyn2.8d0e15854e91823e9e1e.mp3",
     "static/media/nia.jpg": "/dsrszinkron/static/media/nia.e1ce751ef1b590f719f9.jpg",
     "index.html": "/dsrszinkron/index.html",
     "main.f855e6bc.css.map": "/dsrszinkron/static/css/main.f855e6bc.css.map",
-    "main.b7199a25.js.map": "/dsrszinkron/static/js/main.b7199a25.js.map",
+    "main.57ea3e8a.js.map": "/dsrszinkron/static/js/main.57ea3e8a.js.map",
     "453.b8245f6a.chunk.js.map": "/dsrszinkron/static/js/453.b8245f6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b7199a25.js"
+    "static/js/main.57ea3e8a.js"
   ]
 }
